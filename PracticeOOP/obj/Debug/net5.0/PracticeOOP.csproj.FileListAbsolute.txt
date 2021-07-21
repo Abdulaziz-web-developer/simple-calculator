@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.exe
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.deps.json
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.runtimeconfig.json
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.runtimeconfig.dev.json
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.dll
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\ref\PracticeOOP.dll
+C:\Users\user\Desktop\С#\PracticeOOP\bin\Debug\net5.0\PracticeOOP.pdb
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.AssemblyInfo.cs
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.dll
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\ref\PracticeOOP.dll
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.pdb
+C:\Users\user\Desktop\С#\PracticeOOP\obj\Debug\net5.0\PracticeOOP.genruntimeconfig.cache
